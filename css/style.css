@@ -1,0 +1,23 @@
+body{
+    background-color: #e9ecef !important;
+    text-align:center;
+    font-family:Arial !important;
+}
+.brand{
+    color:deeppink !important;
+}
+.purple{
+    color:darkorchid !important;
+}
+h3{
+    color:darkorange !important;
+}
+ul{
+    list-style-type: square !important;
+}
+.list{
+    list-style-position: inside !important;
+}
+.left{
+    text-align: left;
+}
