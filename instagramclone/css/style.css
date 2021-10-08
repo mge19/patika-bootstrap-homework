@@ -22,7 +22,8 @@ input.empty {
   background-color: white;
 }
 .rightpanel{
-  position: sticky;
+  position:sticky;
+  top:54px;
   background-color: white;
   border: none;
 }
