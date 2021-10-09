@@ -1,0 +1,22 @@
+.round{
+    border-radius: 50px;
+}
+.top-custom{
+    background-color: #C4E2FF;
+    border-bottom: 1px solid #292929;
+}
+.nav-height{
+    height: 76px;
+}
+.left{
+    margin-left: 70px;
+}
+.right{
+    margin-right: 70px;
+}
+.black{
+    color:black;
+}
+body{
+    font-family: 'PT Serif', serif;
+}
