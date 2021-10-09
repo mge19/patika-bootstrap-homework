@@ -20,3 +20,16 @@
 body{
     font-family: 'PT Serif', serif;
 }
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+.inline{
+    display: inline;
+}
+.border-top-dark{
+    border-top:1px solid rgba(230,230,230,1);
+}
+aside{
+    position: sticky;
+    top:10px;
+}
